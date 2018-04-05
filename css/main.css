@@ -1,0 +1,32 @@
+#content {
+    min-height: 60vh;
+}
+
+.colHeight {
+    min-height: inherit;
+}
+
+.alert {
+    display: none;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(97, 98, 94, 0.46);
+    color: white;
+    text-align: center;
+    height: 20px;
+}
+
+#conversationSubject {
+    width: 250px;
+    height: 30px;
+}
+
+#conversationMessage {
+    width: 800px;
+    height: 30px;
+}
